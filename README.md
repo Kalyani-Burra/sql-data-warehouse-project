@@ -110,8 +110,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I'm **Kalyani B**
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+I am Kalyani, a Data Analyst with professional experience working with data to uncover meaningful insights. Throughout my career, I have focused on exploring complex datasets, ensuring data quality through thorough cleaning and preparation, and transforming raw information into actionable insights. I regularly work with tools such as SQL, Excel, Power BI, and Tableau to analyze data and build clear, impactful visualizations.
 
+My goal is to continue growing as a data professional, working with organizations that value data-driven thinking and using analytics to solve real business problems.
 
-
-Building a data warehouse with SQL Server, including ETL processes, data modeling and analytics.
+Built a data warehouse with SQL Server, including ETL processes, data modeling and analytics.
